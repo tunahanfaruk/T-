@@ -1,5 +1,5 @@
 # T-
-A programmeing language developed by Tunahan Faruk S.  
+T minus is a programmeing language developed by Tunahan Faruk S.  
   
 # For Writeing Some Thing  
 write("something_you_want")  
