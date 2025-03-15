@@ -1,6 +1,5 @@
 # T-
 A programmeing language developed by Tunahan Faruk S.  
-# Commands That You Can Use  
   
 # For Writeing Some Thing  
 write("something_you_want")  
