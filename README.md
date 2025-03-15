@@ -8,7 +8,7 @@ write("something_you_want")
 # For Adding Vaiable
 :x&20
 
-#Simple Calculations
+# Simple Calculations
 
 456+346
 3456-34
