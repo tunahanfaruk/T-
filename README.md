@@ -1,4 +1,4 @@
-# T-
+# T -
 T minus is a programmeing language developed by Tunahan Faruk S.  
   
 # For Writeing Some Thing  
