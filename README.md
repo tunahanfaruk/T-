@@ -1,4 +1,4 @@
-# T- version 0.2  
+# T-version 0.2  
 T minus is a programmeing language developed by Tunahan Faruk S.  
   
 you dont have to write " <->  " it is for showing lines  
