@@ -71,6 +71,11 @@ while True:
         var3 = int(var1) // int(var2)
         print(var3)
 
+    elif  x == "":
+        pass
 
+    elif x == "q":
+        break
+    
     else:
         print("ERROR unnown command")
